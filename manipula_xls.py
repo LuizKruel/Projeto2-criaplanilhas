@@ -1,7 +1,7 @@
 """
 Projeto2-criaplanilhas
 Descrição: módulo que oferece funções para manipular arquivos no formato xls.
-Autora: Luiz Kruel
+Autor: Luiz Kruel
 Data: 19/09/2022
 Versão: 0.0.1
 """
